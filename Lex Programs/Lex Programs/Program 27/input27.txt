@@ -1,0 +1,2 @@
+abc is a word.
+abcabc is another string.
